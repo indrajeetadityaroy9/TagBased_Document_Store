@@ -1,4 +1,4 @@
-# Hierarchical File System
+# Hierarchical File System Tool
 Most operating systems use a hierarchical file system for storing documents, images, media, programs, and any other type of data in files.
 
 R script to navigate Unix and Windows file systems and implement query structure for data store that utilize a hierarchical document object model. This tool aims to provide users with a comprehensive solution for file navigation and structured data querying across multiple platforms.
