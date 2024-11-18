@@ -1,6 +1,2 @@
-# Hierarchical File System Query Tool
-Most operating systems use a hierarchical file system for storing documents, images, media, programs, and any other type of data in files.
-
-Query tool to navigate Unix and Windows file systems and implement query structure for data store that utilize a hierarchical document object model. This tool aims to provide users with a comprehensive solution for file navigation and structured data querying across multiple platforms.
-
-A document store that uses folders as a means to organize data. Input files are tagged and storage directories are dynamically generated for each tag. For example, the file CampusAtNight.jpg might have associated tags "#Northeastern" and "#ISEC", so the file is then stored in the folders "Northeastern" and "ISEC". 
+# Hierarchical File Tagging and Organization Tool
+The Hierarchical File System Query Tool is an R-based script designed to organize and manage files within a structured, tag-driven hierarchy. It is particularly well-suited for use cases such as a document store that relies on folders to organize data efficiently. The tool dynamically extracts tags from file names, generates storage directories for each tag, and places files into the corresponding folders. For example, a file named CampusAtNight.jpg#Northeastern#ISEC is automatically stored in the folders Northeastern and ISEC, allowing for streamlined organization and retrieval. Key features include file tagging, dynamic directory creation, and database maintenance, all executed through modular functions for setup, tagging, and cleanup. With robust logging and error handling, this tool simplifies file management tasks, making it an ideal solution for organizing tagged data into a hierarchical file structure.

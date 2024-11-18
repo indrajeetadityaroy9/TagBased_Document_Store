@@ -1,6 +1,3 @@
-# Author: Indrajeet Roy
-# Email: roy.i@northeastern.edu
-
 rootDir <- "docDB"
 
 # Main Function
